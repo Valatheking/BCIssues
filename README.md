@@ -1,4 +1,4 @@
-# Issues faced
+# Read these instructions on uploading issues!
 Any issues faced please follow these  instructions to list as an issue. </br>
 1. Click on the issues tab![Image of issues](https://github.com/Valatheking/BCIssues/blob/master/issues.png)</br>
 2. Click on New issue![Image of new issues](https://github.com/Valatheking/BCIssues/blob/master/new%20issue.png)</br>
